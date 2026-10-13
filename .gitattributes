@@ -1,0 +1,7 @@
+# Keep the repository bytes identical to what GitHub serves (and to what the
+# manifest's SHA-256 values are computed from). Text works are normalised to
+# LF in the repo; the gzip-compressed companions are treated as binary and are
+# never line-ending converted.
+* text=auto eol=lf
+*.gz binary
+*.refs.json.gz binary
