@@ -1,220 +1,11 @@
 {
-  "content_version": "2026.11.08.195013",
+  "content_version": "2026.11.13.195959",
   "files": [
     {
-      "path": "Other Works/Arminianism.txt",
-      "sha256": "aa9cc6a7c73b771b181df655e1ed479defc0c2b4c73770066c7221edbf199e64",
-      "size": 478681
-    },
-    {
-      "path": "Other Works/At The Master's Feet.txt",
-      "sha256": "731f74f118572bc352031d9427725c82967dc1c6a288e4248a6d112715a7740d",
-      "size": 115505
-    },
-    {
-      "path": "Other Works/Call to the Unconverted.txt",
-      "sha256": "00934ed87cdd65a0c5f3c3cf923ed562dec18117b5df94180cc180f31f25b89c",
-      "size": 285394
-    },
-    {
-      "path": "Other Works/Calvin - Commentaries.txt",
-      "sha256": "1480b3853474e5d4a1e2fc2b6fc44d185078318ec78f663b8c1b63647d279846",
-      "size": 1043803
-    },
-    {
-      "path": "Other Works/Catechisms John Owen.txt",
-      "sha256": "a714dbc3734a1525a558b31a734912cd4cf3061fa7bcb30b2b596e3d1aa5a17d",
-      "size": 95458
-    },
-    {
-      "path": "Other Works/Comfort for Christians.txt",
-      "sha256": "5094d1620c0f3928c614e3376487d5f1bf173452cbf0dd283786bca69d7893e9",
-      "size": 168633
-    },
-    {
-      "path": "Other Works/Commentary on Galatians Luther.txt",
-      "sha256": "6957267abf6cdf74d812639f83533497e991d66e0d5b6c4f8bb69c963295cc6a",
-      "size": 495293
-    },
-    {
-      "path": "Other Works/Daily Light on the Daily Path.txt",
-      "sha256": "cc9f06b584b1e3c886c74547545501b4677b5ad442e2d9d54e168409d9d1329f",
-      "size": 965074
-    },
-    {
-      "path": "Other Works/Death of Death in the Death of Christ.txt",
-      "sha256": "6d3b53564a345ac8f323175c0b7901c85f6311e5aa0240b837b1e0315996b8fe",
-      "size": 1246510
-    },
-    {
-      "path": "Other Works/Eastons Bible Dictionary.txt",
-      "sha256": "79d6344da21bea901663a96b5b3824f9ebe7561c54e92cfd68e1d1d770d618f5",
-      "size": 3337887
-    },
-    {
-      "path": "Other Works/Election A. W. Pink.txt",
-      "sha256": "476249525517170f4bb6fe1622ab2cae5be0a9fd10a73312cd17b6a87ba3084e",
-      "size": 38357
-    },
-    {
-      "path": "Other Works/Election C. D. Cole.txt",
-      "sha256": "e07cdf74e835acdebdbe7fcdc005e883ccc7f8720e33c8383a0bf9f08af8a49e",
-      "size": 103953
-    },
-    {
-      "path": "Other Works/Essentials of Prayer.txt",
-      "sha256": "7ce6c27ceebddadad83d8ef0ae63d07952540d1c08b105c7381a65e21eaa49ef",
-      "size": 194852
-    },
-    {
-      "path": "Other Works/Free Grace Indeed.txt",
-      "sha256": "f9f01b28e9644a7d24799ee0c4a6a7e2359590c4746c11869b3fe324be010bae",
-      "size": 44219
-    },
-    {
-      "path": "Other Works/God's Way of Peace.txt",
-      "sha256": "3d92af15fa05d7b2f0d5e14bb577a8f9efa438a438ff64f2676438ed95c64469",
-      "size": 184911
-    },
-    {
-      "path": "Other Works/Institutes.txt",
-      "sha256": "4960ea6b37e6180f663e2f747ec16eab66824173283cf1b624667be613389969",
-      "size": 4136477
-    },
-    {
-      "path": "Other Works/JFB Commentary.txt",
-      "sha256": "17fc66692f3a8b5105764639ea3f0e53c38736d5b7228026d9802aeed24ce424",
-      "size": 13300515
-    },
-    {
-      "path": "Other Works/Justification by Faith.txt",
-      "sha256": "2f5e6b1d49000cc83685ca338464e0febee013ec0d66a7c28c19029dcfda017f",
-      "size": 1342349
-    },
-    {
-      "path": "Other Works/MHCC.txt",
-      "sha256": "36b01a86e8f64d8616b95ad756104c45345915df31ce2affbee0d3118951a4db",
-      "size": 4370386
-    },
-    {
-      "path": "Other Works/Mystery of the Gospel.txt",
-      "sha256": "8da8028515b1b9aafd151ac64f9a914c2081612f344b8285b6841805aeb73205",
-      "size": 2222021
-    },
-    {
-      "path": "Other Works/Naves Topical Bible.txt",
-      "sha256": "de9f26f22b18e45f2dd0d14318ac255a315d4a88a9f5f50191f23ccd98d794f0",
-      "size": 1818523
-    },
-    {
-      "path": "Other Works/Necessity of Prayer.txt",
-      "sha256": "ecf713a7a4ff378f3b5966dff2130328efc5bdcfa1512c0c57e2040bb9430583",
-      "size": 190358
-    },
-    {
-      "path": "Other Works/Of Communion with God.txt",
-      "sha256": "0529684118bdc02964ea0d20335f38729cdbab008efee11e8760a7efe16ea0c3",
-      "size": 1322238
-    },
-    {
-      "path": "Other Works/Of Prayer - Calvin.txt",
-      "sha256": "b2aa473643286d2d51e559ace099ee83c66bb4080aa2a820fe7173b857ef4dd8",
-      "size": 210504
-    },
-    {
-      "path": "Other Works/Pneumatologia.txt",
-      "sha256": "6335efb7f8ef8f7a7b846765c67a251f1e9bf0b6ad7fb911121f307c9b50653d",
-      "size": 3774697
-    },
-    {
-      "path": "Other Works/Power Through Prayer.txt",
-      "sha256": "b4c3e4b40bb3dae6019583d4a9beeeb96af65cb850e564087f61e1e895a4e8c8",
-      "size": 128667
-    },
-    {
-      "path": "Other Works/Prayer and Praying Men.txt",
-      "sha256": "134d07bde40069601d80969c6da97abd8c217d46aa129f0169fc84b5a25f92dd",
-      "size": 203336
-    },
-    {
-      "path": "Other Works/Puritan Catechism.txt",
-      "sha256": "449885b7363979b39ce3a558cab8a847d4704d38c8d92373268c98a5b2d29f78",
-      "size": 33127
-    },
-    {
-      "path": "Other Works/Purpose in Prayer.txt",
-      "sha256": "d507ccb23d4881d43de4f1c48fce26504e939f43ed7dbd73e10852ef4635a46b",
-      "size": 206249
-    },
-    {
-      "path": "Other Works/Reality of Prayer.txt",
-      "sha256": "4559c667ec0045f9dfe94cd2ce76f0511fdf20ecf65d7826c5afb1b289167e09",
-      "size": 187424
-    },
-    {
-      "path": "Other Works/Saint Indeed.txt",
-      "sha256": "5744f8ffa4600affbe1e83e487f464a53bc5e2cec8b18e04307385bf25aefa29",
-      "size": 316356
-    },
-    {
-      "path": "Other Works/Sermons of John Owen.txt",
-      "sha256": "ddc0f39f24881bf2406d2907bff57f49a8e3eb7c95133511dab5d6806e1a6d0c",
-      "size": 3645764
-    },
-    {
-      "path": "Other Works/Sermons on Proverbs.txt",
-      "sha256": "5e98be6e076367004c8beec9fb4fde2cbe6dc29bfd914916884d50691a42b575",
-      "size": 1599858
-    },
-    {
-      "path": "Other Works/Small Catechism Luther.txt",
-      "sha256": "04dc569fbb2993e19a17d7ac0814360681969b97d84ecb723de510dbdc68a680",
-      "size": 42605
-    },
-    {
-      "path": "Other Works/Systematic Theology - Vol. I.txt",
-      "sha256": "1ed47972b261d423a01dd5bf5aa498c68a682b7a447db734e6842ce742ff86cd",
-      "size": 1844669
-    },
-    {
-      "path": "Other Works/Systematic Theology - Vol. II.txt",
-      "sha256": "6c50283a1e1f5e8ed42f7fdcb1f5ec2075e1908de8d37212a25ea93f55554758",
-      "size": 2143698
-    },
-    {
-      "path": "Other Works/Systematic Theology - Vol. III.txt",
-      "sha256": "536bc654027baa3d1e9f9c28dc6764d928cf20cf3388248aaabeb7f3deeac6a7",
-      "size": 2606597
-    },
-    {
-      "path": "Other Works/The Antichrist.txt",
-      "sha256": "5681c38a8e2e45eee928846ee666b07f60f41afc13a955a58838f0e6992a43ab",
-      "size": 567425
-    },
-    {
-      "path": "Other Works/The Holy War.txt",
-      "sha256": "6cd006014af05f4d06a8b2b58ba2c35dde804017ffa012aa1f46b659ca7d1cb0",
-      "size": 560584
-    },
-    {
-      "path": "Other Works/Torreys New Topical Textbook.txt",
-      "sha256": "f01f3a419904bc479a243807e70f3784b8c3588ea5c81369102e0e53281c6a35",
-      "size": 1787222
-    },
-    {
-      "path": "Other Works/Weapon of Prayer.txt",
-      "sha256": "217ff4df8e8cf58ec07fe74a4d19c76c22e6e5c5f9154f978bf300f61336cf62",
-      "size": 224464
-    },
-    {
-      "path": "Other Works/Works of Jonathan Edwards Vol I.txt",
-      "sha256": "ecc583a125fb8577dc09bc616b170e6a090debd25d634344607aed34a45fcac9",
-      "size": 8458331
-    },
-    {
-      "path": "Other Works/Works of Jonathan Edwards Vol II.txt",
-      "sha256": "edfa380910cd51ffc84031b7c0e9806f84e20099e130cd5afe9208a21e62d2c8",
-      "size": 8776139
+      "path": "Cross References/openbible-crossrefs.sqlite",
+      "sha256": "dc1a43a3b276c4cabc61134c3a178fa5b12d94d0ab804cee108e21087f4bbf56",
+      "size": 5128192,
+      "title": "Cross References (OpenBible.info)"
     },
     {
       "path": "Other Works companions/Arminianism.txt.refs.json.gz",
@@ -430,6 +221,221 @@
       "path": "Other Works companions/Works of Jonathan Edwards Vol II.txt.refs.json.gz",
       "sha256": "56bc3a4756aea6c94464ee69b8e8b89971818975b0e230c7f012685eb5ab883f",
       "size": 113994
+    },
+    {
+      "path": "Other Works/Arminianism.txt",
+      "sha256": "aa9cc6a7c73b771b181df655e1ed479defc0c2b4c73770066c7221edbf199e64",
+      "size": 478681
+    },
+    {
+      "path": "Other Works/At The Master's Feet.txt",
+      "sha256": "731f74f118572bc352031d9427725c82967dc1c6a288e4248a6d112715a7740d",
+      "size": 115505
+    },
+    {
+      "path": "Other Works/Call to the Unconverted.txt",
+      "sha256": "00934ed87cdd65a0c5f3c3cf923ed562dec18117b5df94180cc180f31f25b89c",
+      "size": 285394
+    },
+    {
+      "path": "Other Works/Calvin - Commentaries.txt",
+      "sha256": "1480b3853474e5d4a1e2fc2b6fc44d185078318ec78f663b8c1b63647d279846",
+      "size": 1043803
+    },
+    {
+      "path": "Other Works/Catechisms John Owen.txt",
+      "sha256": "a714dbc3734a1525a558b31a734912cd4cf3061fa7bcb30b2b596e3d1aa5a17d",
+      "size": 95458
+    },
+    {
+      "path": "Other Works/Comfort for Christians.txt",
+      "sha256": "5094d1620c0f3928c614e3376487d5f1bf173452cbf0dd283786bca69d7893e9",
+      "size": 168633
+    },
+    {
+      "path": "Other Works/Commentary on Galatians Luther.txt",
+      "sha256": "6957267abf6cdf74d812639f83533497e991d66e0d5b6c4f8bb69c963295cc6a",
+      "size": 495293
+    },
+    {
+      "path": "Other Works/Daily Light on the Daily Path.txt",
+      "sha256": "cc9f06b584b1e3c886c74547545501b4677b5ad442e2d9d54e168409d9d1329f",
+      "size": 965074
+    },
+    {
+      "path": "Other Works/Death of Death in the Death of Christ.txt",
+      "sha256": "6d3b53564a345ac8f323175c0b7901c85f6311e5aa0240b837b1e0315996b8fe",
+      "size": 1246510
+    },
+    {
+      "path": "Other Works/Eastons Bible Dictionary.txt",
+      "sha256": "79d6344da21bea901663a96b5b3824f9ebe7561c54e92cfd68e1d1d770d618f5",
+      "size": 3337887
+    },
+    {
+      "path": "Other Works/Election A. W. Pink.txt",
+      "sha256": "476249525517170f4bb6fe1622ab2cae5be0a9fd10a73312cd17b6a87ba3084e",
+      "size": 38357
+    },
+    {
+      "path": "Other Works/Election C. D. Cole.txt",
+      "sha256": "e07cdf74e835acdebdbe7fcdc005e883ccc7f8720e33c8383a0bf9f08af8a49e",
+      "size": 103953
+    },
+    {
+      "path": "Other Works/Essentials of Prayer.txt",
+      "sha256": "7ce6c27ceebddadad83d8ef0ae63d07952540d1c08b105c7381a65e21eaa49ef",
+      "size": 194852
+    },
+    {
+      "path": "Other Works/Free Grace Indeed.txt",
+      "sha256": "f9f01b28e9644a7d24799ee0c4a6a7e2359590c4746c11869b3fe324be010bae",
+      "size": 44219
+    },
+    {
+      "path": "Other Works/God's Way of Peace.txt",
+      "sha256": "3d92af15fa05d7b2f0d5e14bb577a8f9efa438a438ff64f2676438ed95c64469",
+      "size": 184911
+    },
+    {
+      "path": "Other Works/Institutes.txt",
+      "sha256": "4960ea6b37e6180f663e2f747ec16eab66824173283cf1b624667be613389969",
+      "size": 4136477
+    },
+    {
+      "path": "Other Works/JFB Commentary.txt",
+      "sha256": "17fc66692f3a8b5105764639ea3f0e53c38736d5b7228026d9802aeed24ce424",
+      "size": 13300515
+    },
+    {
+      "path": "Other Works/Justification by Faith.txt",
+      "sha256": "2f5e6b1d49000cc83685ca338464e0febee013ec0d66a7c28c19029dcfda017f",
+      "size": 1342349
+    },
+    {
+      "path": "Other Works/MHCC.txt",
+      "sha256": "36b01a86e8f64d8616b95ad756104c45345915df31ce2affbee0d3118951a4db",
+      "size": 4370386
+    },
+    {
+      "path": "Other Works/Mystery of the Gospel.txt",
+      "sha256": "8da8028515b1b9aafd151ac64f9a914c2081612f344b8285b6841805aeb73205",
+      "size": 2222021
+    },
+    {
+      "path": "Other Works/Naves Topical Bible.txt",
+      "sha256": "de9f26f22b18e45f2dd0d14318ac255a315d4a88a9f5f50191f23ccd98d794f0",
+      "size": 1818523
+    },
+    {
+      "path": "Other Works/Necessity of Prayer.txt",
+      "sha256": "ecf713a7a4ff378f3b5966dff2130328efc5bdcfa1512c0c57e2040bb9430583",
+      "size": 190358
+    },
+    {
+      "path": "Other Works/Of Communion with God.txt",
+      "sha256": "0529684118bdc02964ea0d20335f38729cdbab008efee11e8760a7efe16ea0c3",
+      "size": 1322238
+    },
+    {
+      "path": "Other Works/Of Prayer - Calvin.txt",
+      "sha256": "b2aa473643286d2d51e559ace099ee83c66bb4080aa2a820fe7173b857ef4dd8",
+      "size": 210504
+    },
+    {
+      "path": "Other Works/Pneumatologia.txt",
+      "sha256": "6335efb7f8ef8f7a7b846765c67a251f1e9bf0b6ad7fb911121f307c9b50653d",
+      "size": 3774697
+    },
+    {
+      "path": "Other Works/Power Through Prayer.txt",
+      "sha256": "b4c3e4b40bb3dae6019583d4a9beeeb96af65cb850e564087f61e1e895a4e8c8",
+      "size": 128667
+    },
+    {
+      "path": "Other Works/Prayer and Praying Men.txt",
+      "sha256": "134d07bde40069601d80969c6da97abd8c217d46aa129f0169fc84b5a25f92dd",
+      "size": 203336
+    },
+    {
+      "path": "Other Works/Puritan Catechism.txt",
+      "sha256": "449885b7363979b39ce3a558cab8a847d4704d38c8d92373268c98a5b2d29f78",
+      "size": 33127
+    },
+    {
+      "path": "Other Works/Purpose in Prayer.txt",
+      "sha256": "d507ccb23d4881d43de4f1c48fce26504e939f43ed7dbd73e10852ef4635a46b",
+      "size": 206249
+    },
+    {
+      "path": "Other Works/Reality of Prayer.txt",
+      "sha256": "4559c667ec0045f9dfe94cd2ce76f0511fdf20ecf65d7826c5afb1b289167e09",
+      "size": 187424
+    },
+    {
+      "path": "Other Works/Saint Indeed.txt",
+      "sha256": "5744f8ffa4600affbe1e83e487f464a53bc5e2cec8b18e04307385bf25aefa29",
+      "size": 316356
+    },
+    {
+      "path": "Other Works/Sermons of John Owen.txt",
+      "sha256": "ddc0f39f24881bf2406d2907bff57f49a8e3eb7c95133511dab5d6806e1a6d0c",
+      "size": 3645764
+    },
+    {
+      "path": "Other Works/Sermons on Proverbs.txt",
+      "sha256": "5e98be6e076367004c8beec9fb4fde2cbe6dc29bfd914916884d50691a42b575",
+      "size": 1599858
+    },
+    {
+      "path": "Other Works/Small Catechism Luther.txt",
+      "sha256": "04dc569fbb2993e19a17d7ac0814360681969b97d84ecb723de510dbdc68a680",
+      "size": 42605
+    },
+    {
+      "path": "Other Works/Systematic Theology - Vol. I.txt",
+      "sha256": "1ed47972b261d423a01dd5bf5aa498c68a682b7a447db734e6842ce742ff86cd",
+      "size": 1844669
+    },
+    {
+      "path": "Other Works/Systematic Theology - Vol. II.txt",
+      "sha256": "6c50283a1e1f5e8ed42f7fdcb1f5ec2075e1908de8d37212a25ea93f55554758",
+      "size": 2143698
+    },
+    {
+      "path": "Other Works/Systematic Theology - Vol. III.txt",
+      "sha256": "536bc654027baa3d1e9f9c28dc6764d928cf20cf3388248aaabeb7f3deeac6a7",
+      "size": 2606597
+    },
+    {
+      "path": "Other Works/The Antichrist.txt",
+      "sha256": "5681c38a8e2e45eee928846ee666b07f60f41afc13a955a58838f0e6992a43ab",
+      "size": 567425
+    },
+    {
+      "path": "Other Works/The Holy War.txt",
+      "sha256": "6cd006014af05f4d06a8b2b58ba2c35dde804017ffa012aa1f46b659ca7d1cb0",
+      "size": 560584
+    },
+    {
+      "path": "Other Works/Torreys New Topical Textbook.txt",
+      "sha256": "f01f3a419904bc479a243807e70f3784b8c3588ea5c81369102e0e53281c6a35",
+      "size": 1787222
+    },
+    {
+      "path": "Other Works/Weapon of Prayer.txt",
+      "sha256": "217ff4df8e8cf58ec07fe74a4d19c76c22e6e5c5f9154f978bf300f61336cf62",
+      "size": 224464
+    },
+    {
+      "path": "Other Works/Works of Jonathan Edwards Vol I.txt",
+      "sha256": "ecc583a125fb8577dc09bc616b170e6a090debd25d634344607aed34a45fcac9",
+      "size": 8458331
+    },
+    {
+      "path": "Other Works/Works of Jonathan Edwards Vol II.txt",
+      "sha256": "edfa380910cd51ffc84031b7c0e9806f84e20099e130cd5afe9208a21e62d2c8",
+      "size": 8776139
     }
   ]
 }
