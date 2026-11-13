@@ -1,5 +1,5 @@
 {
-  "content_version": "2026.11.13.195959",
+  "content_version": "2026.11.13.204126",
   "files": [
     {
       "path": "Cross References/openbible-crossrefs.sqlite",
@@ -99,7 +99,7 @@
     },
     {
       "path": "Other Works companions/MHCC.txt.refs.json.gz",
-      "sha256": "aa9b9d11c67832cebd2dc45a4411491d61404fd1705209ea4faea25d25c7c627",
+      "sha256": "4782f69b7d22dc3e03a6d1dd06b4d1cd22a9f459a06a2f8a1023466aaab3b600",
       "size": 25107
     },
     {
@@ -314,8 +314,8 @@
     },
     {
       "path": "Other Works/MHCC.txt",
-      "sha256": "36b01a86e8f64d8616b95ad756104c45345915df31ce2affbee0d3118951a4db",
-      "size": 4370386
+      "sha256": "f8933bc6f9e77059e271a858c98ba9a8034a8341f1f05a08c03e6a61ef583116",
+      "size": 4370408
     },
     {
       "path": "Other Works/Mystery of the Gospel.txt",
