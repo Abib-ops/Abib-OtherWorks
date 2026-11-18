@@ -265,7 +265,8 @@
    John White
      __________________________________________________________________
 
- To the right honourable the lords and gentlemen of the committee for religion.
+ To the right honourable the lords and gentlemen of the committee for
+ religion.
                                       [1]
 
    The many ample testimonies of zealous reverence to the providence of
@@ -6821,10 +6822,10 @@
    
    [231] "Operatur in nobis velle quod bonum est, velle quod sanctum est,
    dum nos terrenis cupiditatibus deditos mutorum more animalium,
-   tantummodo praesentia diligentes, futurae gloriae magnitudine et praemiorum
-   pollicitatione, succendit: dum revelatione sapientiae in desiderium Dei
-   stupentem suscitat voluntatem, dum nobis suadet omne quod bonum est."
-   -- Pelag., ap. Aug. de Grat. Ch. cap. x.
+   tantummodo praesentia diligentes, futurae gloriae magnitudine et
+   praemiorum pollicitatione, succendit: dum revelatione sapientiae in
+   desiderium Dei stupentem suscitat voluntatem, dum nobis suadet omne
+   quod bonum est." -- Pelag., ap. Aug. de Grat. Ch. cap. x.
    
    [232] "Ut autem assensus hic eliciatur in nobis, duo in primis
    necessaria sunt:-- 1. Argumenta talia ex parte Dei, quibus nihil

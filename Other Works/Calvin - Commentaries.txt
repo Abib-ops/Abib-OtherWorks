@@ -425,14 +425,14 @@ General Introduction
    saying that the tongue should be an image of the understanding (Gal.
    5:19, I Cor. 14:11). In the field of law, he speaks of Portius' law,
    Flavian law, the laws of Sempronius, and Valerius' law (Acts 16:35,
-   Ac 22:25, I Tim. 1:10). Herodotus, Pliny, Gellius, Homer all contributed a
-   discussion of the giant Og in Deut. 3:4. It is not always possible to
-   tell whether Calvin is depending on his own memory of a quoted passage,
-   or on a collection of quotations such as the Adagies of Erasmus. Calvin
-   was admired by his friends and feared by his enemies as a most learned
-   man. But he never makes a display of his erudition and it seldom
-   interferes with a forthright presentation of the meaning he saw it and
-   with his communication with his hearers and readers.
+   Ac 22:25, I Tim. 1:10). Herodotus, Pliny, Gellius, Homer all
+   contributed a discussion of the giant Og in Deut. 3:4. It is not always
+   possible to tell whether Calvin is depending on his own memory of a
+   quoted passage, or on a collection of quotations such as the Adagies of
+   Erasmus. Calvin was admired by his friends and feared by his enemies as
+   a most learned man. But he never makes a display of his erudition and
+   it seldom interferes with a forthright presentation of the meaning he
+   saw it and with his communication with his hearers and readers.
 
    The same holds for his use of ancient Christian literature. Hundreds of
    references in the Commentaries, quotations, approving and disapproving
@@ -2643,13 +2643,13 @@ General Introduction
    by whose contribution today our France lays claim to the palm of
    erudition" (O. Breen, John Calvin: A Study on French Humanism, p. 114).
    He refers to Budé often (I Cor. 4:13, II Cor. 1:13, Phil. 2:9, John
-   2:5, John 6:7, etc.) as an authority on the languages and civilization of
-   Greece and Rome. De asse at partibus eius of Budé was held in highest
-   esteem as a source book on the subject. He was critical of the church
-   and defended the primacy of Scripture and the cross for salvation, but
-   he refused to join "the Lutherans." His family later found their way to
-   Geneva. (See Josef Bohatec, Budé and Calvin, Graz, 1950, for a classic
-   discussion.)
+   2:5, John 6:7, etc.) as an authority on the languages and civilization
+   of Greece and Rome. De asse at partibus eius of Budé was held in
+   highest esteem as a source book on the subject. He was critical of the
+   church and defended the primacy of Scripture and the cross for
+   salvation, but he refused to join "the Lutherans." His family later
+   found their way to Geneva. (See Josef Bohatec, Budé and Calvin, Graz,
+   1950, for a classic discussion.)
 
    [33] Erasmus requires no special discussion here. His relation to the
    Reformation has inspired a literature that is copious and readily
@@ -5375,8 +5375,8 @@ II The Knowledge of God
    than burnt offerings. Hos. 6:6.
 
    This passage is especially important because it was cited twice by the
-   Son of God (Matt. 9:13 and Mt 12:17). . . . For a better understanding of
-   the prophet's meaning, we must first notice that under the terms
+   Son of God (Matt. 9:13 and Mt 12:17). . . . For a better understanding
+   of the prophet's meaning, we must first notice that under the terms
    sacrifice and burnt offerings the outward worship of God and all formal
    ceremonies are included. The part is put for the whole (synecdoche).
    The same is true of the word chesed, mercy or kindness. There is no
@@ -7230,12 +7230,12 @@ III Jesus Christ
 
    In firmness (firmly). 'emeth means sometimes certainty, sometimes
    truth. Here the prophet means that Christ's Kingdom will be firm and
-   enduring, even as Daniel (Da 2:44; Da 7:14) bore witness, and the Evangelist
-   also: Of his kingdom there will be no end (Luke 1:33). This permanence
-   distinguishes it from the ordinary kingdoms. For although they are
-   established with great and plentiful resources, they totter or sink by
-   their own weight, so that they are no firmer than images of melting
-   wax.
+   enduring, even as Daniel (Da 2:44; Da 7:14) bore witness, and the
+   Evangelist also: Of his kingdom there will be no end (Luke 1:33). This
+   permanence distinguishes it from the ordinary kingdoms. For although
+   they are established with great and plentiful resources, they totter or
+   sink by their own weight, so that they are no firmer than images of
+   melting wax.
 
    But Isaiah declares that the empire of Christ, although threatened
    often by destruction, will endure forever because it will be upheld by
@@ -16590,9 +16590,9 @@ IX The Church
    such an extent that we think we are only hearing allegories. The
    prophet Isaiah threatened the wicked and the unbelievers, saying that
    he would be to them as a barbarian and would speak with a stammering
-   tongue (Isa 28:11); again, Paul said that the gospel is hidden from those
-   whose minds are blinded by Satan (2 Cor. 4:3). So, also, to weak and
-   uneducated people, Christ's words sound so confused as to be
+   tongue (Isa 28:11); again, Paul said that the gospel is hidden from
+   those whose minds are blinded by Satan (2 Cor. 4:3). So, also, to weak
+   and uneducated people, Christ's words sound so confused as to be
    unintelligible. Even when their minds are not altogether darkened, as
    are those of the ungodly, they still are as it were in a cloud. And the
    Lord allows us for a while to be stupid, so that he may humble us with
