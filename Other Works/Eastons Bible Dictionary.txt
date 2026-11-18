@@ -2988,12 +2988,13 @@ M. G. Easton
           "the land of the Amorites." The southern slopes of the mountains
           of Judea are called the "mount of the Amorites" (Deut. 1:7, 19,
           20). They seem to have originally occupied the land stretching
-          from the heights west of the Dead Sea (Gen. 14:7) to Hebron (13.
-          Comp. 13:8; Deut. 3:8; 4:46-48), embracing "all Gilead and all
-          Bashan" (Deut. 3:10), with the Jordan valley on the east of the
-          river (4:49), the land of the "two kings of the Amorites," Sihon
-          and Og (Deut. 31:4; Josh. 2:10; 9:10). The five kings of the
-          Amorites were defeated with great slaughter by Joshua (10:10).
+          from the heights west of the Dead Sea (Gen. 14:7) to Hebron 
+		  (Gen. 14:13; Comp. Deut. 3:8; 4:46-48), embracing "all Gilead
+		  and all Bashan" (Deut. 3:10), with the Jordan valley on the east
+		  of the river (Deut. 4:49), the land of the "two kings of the
+		  Amorites," Sihon and Og (Deut. 31:4; Josh. 2:10; 9:10). The five
+		  kings of the Amorites were defeated with great slaughter by
+		  Joshua 10:10.
           They were again defeated at the waters of Merom by Joshua, who
           smote them till there were none remaining (Josh. 11:8). It is
           mentioned as a surprising circumstance that in the days of
@@ -3002,16 +3003,16 @@ M. G. Easton
           Num. 14:45 is explained by the circumstance that the terms
           "Amorites" and "Amalekites" are used synonymously for the
           "Canaanites." In the same way we explain the fact that the
-          "Hivites" of Gen. 34:2 are the "Amorites" of 48:22. Comp. Josh.
-          10:6; 11:19 with 2 Sam. 21:2; also Num. 14:45 with Deut. 1:44.
-          The Amorites were warlike mountaineers. They are represented on
-          the Egyptian monuments with fair skins, light hair, blue eyes,
-          aquiline noses, and pointed beards. They are supposed to have
-          been men of great stature; their king, Og, is described by Moses
-          as the last "of the remnant of the giants" (Deut. 3:11). Both
-          Sihon and Og were independent kings. Only one word of the
-          Amorite language survives, "Shenir," the name they gave to Mount
-          Hermon (Deut. 3:9).
+          "Hivites" of Gen. 34:2 are the "Amorites" of Gen. 48:22. Comp.
+		  Josh. 10:6; 11:19 with 2 Sam. 21:2; also Num. 14:45 with Deut. 
+		  1:44. The Amorites were warlike mountaineers. They are
+		  represented on the Egyptian monuments with fair skins, light
+		  hair, blue eyes, aquiline noses, and pointed beards. They are
+		  supposed to have been men of great stature; their king, Og, is
+		  described by Moses as the last "of the remnant of the giants"
+		  (Deut. 3:11). Both Sihon and Og were independent kings. Only one
+		  word of the Amorite language survives, "Shenir," the name they
+		  gave to Mount Hermon (Deut. 3:9).
 
    Amos
           Borne; a burden, one of the twelve minor prophets. He was a
@@ -17665,7 +17666,7 @@ M. G. Easton
           opened," uttered by Christ when healing the man who was deaf and
           dumb (Mark 7:34). It is one of the characteristics of Mark that
           he uses the very Aramaic words which fell from our Lord's lips.
-          (See 3:17; 5:41; 7:11; 14:36; 15:34.)
+          (See Mark 3:17; 5:41; 7:11; 14:36; 15:34.)
 
    Ephraim
           Double fruitfulness ("for God had made him fruitful in the land
@@ -23570,13 +23571,13 @@ M. G. Easton
 
           Hanging (as a curtain). (1.) Heb. masak, (a) before the entrance
           to the court of the tabernacle (Ex. 35:17); (b) before the door
-          of the tabernacle (26:36, 37); (c) before the entrance to the
-          most holy place, called "the veil of the covering" (35:12;
-          39:34), as the word properly means.
+          of the tabernacle (Ex. 26:36, 37); (c) before the entrance to
+		  the most holy place, called "the veil of the covering" (Ex. 
+		  35:12; 39:34), as the word properly means.
 
           (2.) Heb. kelaim, tapestry covering the walls of the tabernacle
           (Ex. 27:9; 35:17; Num. 3:26) to the half of the height of the
-          wall (Ex. 27:18; comp. 26:16). These hangings were fastened to
+          wall (Ex. 27:18; comp. Ex. 26:16). These hangings were fastened to
           pillars.
 
           (3.) Heb. bottim (2 Kings 23:7), "hangings for the grove" (R.V.,
@@ -23612,8 +23613,8 @@ M. G. Easton
           therefore I also have granted him to the Lord; as long as he
           liveth he is granted to the Lord" (1 Sam. 1:27, 28, R.V.). Her
           gladness of heart then found vent in that remarkable prophetic
-          song (2:1-10; comp. Luke 1:46-55) which contains the first
-          designation of the Messiah under that name (1 Sam. 2:10,
+          song (1 Sam. 2:1-10; comp. Luke 1:46-55) which contains the
+		  first designation of the Messiah under that name (1 Sam. 2:10,
           "Annointed" = "Messiah"). And so Samuel and his parents parted.
           He was left at Shiloh to minister "before the Lord." And each
           year, when they came up to Shiloh, Hannah brought to her absent
@@ -23637,7 +23638,7 @@ M. G. Easton
           victory over the Moabites and their allies (2 Sam. 10:1-14) at
           Medeba (q.v.).
 
-          (2.) Neh. 3:13. (3.) 3:30.
+          (2.) Neh. 3:13. (3.) Neh. 3:30.
 
    Hara
           Mountainous land, a province of Assyria (1 Chr. 5:26), between
@@ -54475,8 +54476,8 @@ M. G. Easton
    Zechariah
           Jehovah is renowned or remembered. (1.) A prophet of Judah, the
           eleventh of the twelve minor prophets. Like Ezekiel, he was of
-          priestly extraction. He describes himself (1:1) as "the son of
-          Berechiah." In Ezra 5:1 and 6:14 he is called "the son of Iddo,"
+          priestly extraction. He describes himself (Zec. 1:1) as "the son
+		  of Berechiah." In Ezra 5:1, 6:14 he is called "the son of Iddo,"
           who was properly his grandfather. His prophetical career began
           in the second year of Darius (B.C. 520), about sixteen years
           after the return of the first company from exile. He was
@@ -54484,15 +54485,15 @@ M. G. Easton
 
           His book consists of two distinct parts, (1) chapters 1 to 8,
           inclusive, and (2) 9 to the end. It begins with a preface
-          (1:1-6), which recalls the nation's past history, for the
+          (Zec. 1:1-6), which recalls the nation's past history, for the
           purpose of presenting a solemn warning to the present
-          generation. Then follows a series of eight visions (1:7-6:8),
-          succeeding one another in one night, which may be regarded as a
-          symbolical history of Israel, intended to furnish consolation to
-          the returned exiles and stir up hope in their minds. The
-          symbolical action, the crowning of Joshua (6:9-15), describes
-          how the kingdoms of the world become the kingdom of God's
-          Christ.
+          generation. Then follows a series of eight visions
+		  (Zec. 1:7-6:8), succeeding one another in one night, which may
+		  be regarded as a symbolical history of Israel, intended to
+		  furnish consolation to the returned exiles and stir up hope in
+		  their minds. The symbolical action, the crowning of
+		  (Joshua 6:9-15), describes how the kingdoms of the world become
+		  the kingdom of God's Christ.
 
           Chapters 7 and 8, delivered two years later, are an answer to
           the question whether the days of mourning for the destruction of
@@ -54517,8 +54518,8 @@ M. G. Easton
           rebellion against God (2 Chr. 24:20), which so stirred up their
           resentment against him that at the king's commandment they
           stoned him with stones, and he died "in the court of the house
-          of the Lord" (24:21). Christ alludes to this deed of murder in
-          Matt. 23:35, Luke 11:51. (See [682]ZACHARIAS [2].)
+          of the Lord" (2 Chr. 24:21). Christ alludes to this deed of
+		  murder in Matt. 23:35, Luke 11:51. (See [682]ZACHARIAS [2].)
 
           (3.) A prophet, who had "understanding in the seeing of God," in
           the time of Uzziah, who was much indebted to him for his wise
@@ -54679,20 +54680,20 @@ M. G. Easton
           Jeremiah, with whom he had much in common. The book of his
           prophecies consists of:
 
-          (a) An introduction (1:1-6), announcing the judgment of the
+          (a) An introduction (Zep. 1:1-6), announcing the judgment of the
           world, and the judgment upon Israel, because of their
           transgressions.
 
-          (b) The description of the judgment (1:7-18).
+          (b) The description of the judgment (Zep. 1:7-18).
 
           (c) An exhortation to seek God while there is still time
-          (2:1-3).
+          (Zep. 2:1-3).
 
-          (d) The announcement of judgment on the heathen (2:4-15).
+          (d) The announcement of judgment on the heathen (Zep. 2:4-15).
 
-          (e) The hopeless misery of Jerusalem (3:1-7).
+          (e) The hopeless misery of Jerusalem (Zep. 3:1-7).
 
-          (f) The promise of salvation (3:8-20).
+          (f) The promise of salvation (Zep. 3:8-20).
 
           (2.) The son of Maaseiah, the "second priest" in the reign of
           Zedekiah, often mentioned in Jeremiah as having been sent from
@@ -54778,8 +54779,8 @@ M. G. Easton
           servants, who returned from captivity at the close of the
           seventy years. In the second year after the Return, he erected
           an altar and laid the foundation of the temple on the ruins of
-          that which had been destroyed by Nebuchadnezzar (3:8-13; ch.
-          4-6). All through the work he occupied a prominent place,
+          that which had been destroyed by Nebuchadnezzar (Ezra 3:8-13; 
+		  ch. 4-6). All through the work he occupied a prominent place,
           inasmuch as he was a descendant of the royal line of David.
 
    Zeruiah
@@ -54876,18 +54877,18 @@ M. G. Easton
           Ziklag as his place of residence. There he dwelt for over a year
           and four months. From this time it pertained to the kings of
           Judah (1 Sam. 27:6). During his absence with his army to join
-          the Philistine expedition against the Israelites (29:11), it was
-          destroyed by the Amalekites (30:1, 2), whom David, however,
-          pursued and utterly routed, returning all the captives (1 Sam.
-          30:26-31). Two days after his return from this expedition, David
-          received tidings of the disastrous battle of Gilboa and of the
-          death of Saul (2 Sam. 1:1-16). He now left Ziklag and returned
-          to Hebron, along with his two wives, Ahinoam and Abigail, and
-          his band of 600 men. It has been identified with Asluj, a heap
-          of ruins south of Beersheba. Conder, however, identifies it with
-          Khirbet Zuheilikah, ruins found on three hills half a mile
-          apart, some seventeen miles north-west of Beersheba, on the
-          confines of Philistia, Judah, and Amalek.
+          the Philistine expedition against the Israelites (1 Sam. 29:11),
+		  it was destroyed by the Amalekites (1 Sam. 30:1, 2), whom David,
+		  however, pursued and utterly routed, returning all the captives 
+		  (1 Sam. 30:26-31). Two days after his return from this expedition,
+		  David received tidings of the disastrous battle of Gilboa and of
+		  the death of Saul (2 Sam. 1:1-16). He now left Ziklag and
+		  returned to Hebron, along with his two wives, Ahinoam and
+		  Abigail, and his band of 600 men. It has been identified with
+		  Asluj, a heap of ruins south of Beersheba. Conder, however,
+		  identifies it with Khirbet Zuheilikah, ruins found on three
+		  hills half a mile apart, some seventeen miles north-west of
+		  Beersheba, on the confines of Philistia, Judah, and Amalek.
 
    Zillah
           Shadow, one of the wives of Lamech, of the line of Cain, and
@@ -54922,8 +54923,8 @@ M. G. Easton
           Israel (1 Kings 16:8-10). He reigned only seven days, for Omri,
           whom the army elected as king, laid siege to Tirzah, whereupon
           Zimri set fire to the palace and perished amid its ruins
-          (11-20). Omri succeeded to the throne only after four years of
-          fierce war with Tibni, another claimant to the throne.
+          (1 Kings 16:11-20). Omri succeeded to the throne only after four
+		  years of fierce war with Tibni, another claimant to the throne.
 
    Zin
           A low palm-tree, the south-eastern corner of the desert et-Tih,
@@ -54983,11 +54984,11 @@ M. G. Easton
           she and her two sons, Gershom and Eliezer, when so far on the
           way with Moses toward Egypt, were sent back by him to her own
           kinsfolk, the Midianites, with whom they sojourned till Moses
-          afterwards joined them (18:2-6).
+          afterwards joined them (Ex. 18:2-6).
 
    Zithri
           The Lord protects, a Levite, son of Uzziel (Ex. 6:22).
-
+16.
    Ziz
           Projecting; a flower, a cleft or pass, probably that near
           En-gedi, which leads up from the Dead Sea (2 Chr. 20:16) in the
@@ -55024,10 +55025,10 @@ M. G. Easton
    Zoar
           Small, a town on the east or south-east of the Dead Sea, to
           which Lot and his daughters fled from Sodom (Gen. 19:22, 23). It
-          was originally called Bela (14:2, 8). It is referred to by the
-          prophets Isaiah (15:5) and Jeremiah (48:34). Its ruins are still
-          seen at the opening of the ravine of Kerak, the Kir-Moab
-          referred to in 2 Kings 3, the modern Tell esh-Shaghur.
+          was originally called Bela (Gen. 14:2, 8). It is referred to by 
+		  the prophets (Isaiah 15:5) and (Jeremiah 48:34). Its ruins are 
+		  still seen at the opening of the ravine of Kerak, the Kir-Moab
+          referred to in 2 Kings 3:25, the modern Tell esh-Shaghur.
 
    Zobah
           =Aram-Zobah, (Ps. 60, title), a Syrian province or kingdom to
@@ -55079,8 +55080,8 @@ M. G. Easton
           Place of wasps, a town in the low country of Judah, afterwards
           given to Dan (Josh. 19:41; Judg. 18:2), probably the same as
           Zoreah (Josh. 15:33). This was Samson's birthplace (Judg. 13:2,
-          25), and near it he found a grave (16:31). It was situated on
-          the crest of a hill overlooking the valley of Sorek, and was
+          25), and near it he found a grave (Judg. 16:31). It was situated
+		  on the crest of a hill overlooking the valley of Sorek, and was
           fortified by Rehoboam (2 Chr. 11:10). It has been identified
           with Sur'ah, in the Wady Surar, 8 miles west of Jerusalem. It is
           noticed on monuments in the fifteenth century B.C. as attacked

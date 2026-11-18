@@ -1,5 +1,5 @@
 {
-  "content_version": "2026.11.13.204126",
+  "content_version": "2026.11.18.174729",
   "files": [
     {
       "path": "Cross References/openbible-crossrefs.sqlite",
@@ -34,8 +34,8 @@
     },
     {
       "path": "Other Works companions/Comfort for Christians.txt.refs.json.gz",
-      "sha256": "5808e4ee97299dbbc1c49965365e50465c24d18d5329bfc4a190d40f75731e24",
-      "size": 4449
+      "sha256": "4e01e3997d354cbe8d0ab22a7a9a80c7f5e1b132f329a92d843550fffe8a9e25",
+      "size": 4701
     },
     {
       "path": "Other Works companions/Commentary on Galatians Luther.txt.refs.json.gz",
@@ -44,8 +44,8 @@
     },
     {
       "path": "Other Works companions/Daily Light on the Daily Path.txt.refs.json.gz",
-      "sha256": "46be2b871f34a124b9435df6befde22a5d08c08e9746b80bae4e32a461eb387b",
-      "size": 78879
+      "sha256": "05ced6a3a53592dbf4e49c4e84702a30d709782b16a5e9a7b7dd4de00016e969",
+      "size": 84116
     },
     {
       "path": "Other Works companions/Death of Death in the Death of Christ.txt.refs.json.gz",
@@ -54,8 +54,8 @@
     },
     {
       "path": "Other Works companions/Eastons Bible Dictionary.txt.refs.json.gz",
-      "sha256": "967b522d214c9098658378569d9de981281e6add9322992842ee1aa8481f1414",
-      "size": 296437
+      "sha256": "dc599b208d95507a4aca7aa61a41b6885dac12ea614dfbd92db8084e92f7fca3",
+      "size": 312429
     },
     {
       "path": "Other Works companions/Election A. W. Pink.txt.refs.json.gz",
@@ -249,8 +249,8 @@
     },
     {
       "path": "Other Works/Comfort for Christians.txt",
-      "sha256": "5094d1620c0f3928c614e3376487d5f1bf173452cbf0dd283786bca69d7893e9",
-      "size": 168633
+      "sha256": "d448c2ffece49ddcd59e7cb83f3f07644069b208bf41a2ca40a191f3dc05fc6d",
+      "size": 168671
     },
     {
       "path": "Other Works/Commentary on Galatians Luther.txt",
@@ -259,8 +259,8 @@
     },
     {
       "path": "Other Works/Daily Light on the Daily Path.txt",
-      "sha256": "cc9f06b584b1e3c886c74547545501b4677b5ad442e2d9d54e168409d9d1329f",
-      "size": 965074
+      "sha256": "42ca41f35ec4cc8c7c68b6d04f52276bebaa34f6f9ce71ffb814fc9f41377f0e",
+      "size": 965076
     },
     {
       "path": "Other Works/Death of Death in the Death of Christ.txt",
@@ -269,8 +269,8 @@
     },
     {
       "path": "Other Works/Eastons Bible Dictionary.txt",
-      "sha256": "79d6344da21bea901663a96b5b3824f9ebe7561c54e92cfd68e1d1d770d618f5",
-      "size": 3337887
+      "sha256": "2499bcefc6b0c6da1b48cc665faf7f14c19596c2f6f8857aba25f62dc6c90078",
+      "size": 3337792
     },
     {
       "path": "Other Works/Election A. W. Pink.txt",
