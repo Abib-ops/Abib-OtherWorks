@@ -1,5 +1,5 @@
 {
-  "content_version": "2026.11.18.174729",
+  "content_version": "2026.11.18.181843",
   "files": [
     {
       "path": "Cross References/openbible-crossrefs.sqlite",
@@ -54,8 +54,8 @@
     },
     {
       "path": "Other Works companions/Eastons Bible Dictionary.txt.refs.json.gz",
-      "sha256": "dc599b208d95507a4aca7aa61a41b6885dac12ea614dfbd92db8084e92f7fca3",
-      "size": 312429
+      "sha256": "8448ee123b0f15b4d4ec5f3fcaa8498feb4211785d8806eb13fd9bf1779bb486",
+      "size": 312330
     },
     {
       "path": "Other Works companions/Election A. W. Pink.txt.refs.json.gz",
@@ -269,8 +269,8 @@
     },
     {
       "path": "Other Works/Eastons Bible Dictionary.txt",
-      "sha256": "2499bcefc6b0c6da1b48cc665faf7f14c19596c2f6f8857aba25f62dc6c90078",
-      "size": 3337792
+      "sha256": "407aa945e183f9c3ec242dc05b3ed003fd9b12d8fdea3fb18689b5d83b10c272",
+      "size": 3338044
     },
     {
       "path": "Other Works/Election A. W. Pink.txt",
